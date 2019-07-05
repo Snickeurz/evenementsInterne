@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/carine/NetBeansProjects/Appli-Evenements/src/appli/objets/Relance.java</file>
+            <file>file:/Users/carine/NetBeansProjects/Appli-Evenements/src/appli/main/AppliEvenementInterne.java</file>
+            <file>file:/Users/carine/NetBeansProjects/Appli-Evenements/src/appli/objets/Produit.java</file>
+            <file>file:/Users/carine/NetBeansProjects/Appli-Evenements/src/appli/evenement/RelanceReappro.java</file>
+            <file>file:/Users/carine/NetBeansProjects/Appli-Evenements/src/appli/objets/Client.java</file>
+            <file>file:/Users/carine/NetBeansProjects/Appli-Evenements/src/appli/context/StockInsuffisantException.java</file>
+            <file>file:/Users/carine/NetBeansProjects/Appli-Evenements/src/appli/objets/CommandeReappro.java</file>
+            <file>file:/Users/carine/NetBeansProjects/Appli-Evenements/src/appli/evenement/RuptureStockListener.java</file>
+            <file>file:/Users/carine/NetBeansProjects/Appli-Evenements/src/appli/context/AppContext.java</file>
+            <file>file:/Users/carine/NetBeansProjects/Appli-Evenements/src/appli/objets/Commande.java</file>
+        </group>
+    </open-files>
+</project-private>
